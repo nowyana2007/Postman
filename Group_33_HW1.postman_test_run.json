@@ -1,0 +1,172 @@
+{
+	"id": "5025d3ef-ae9c-49f2-92ad-11110c654bb6",
+	"name": "Group_33_HW1",
+	"timestamp": "2023-03-12T13:27:00.989Z",
+	"collection_id": "21689510-6fdd87d8-8680-44b8-8ea8-6cc2a3db9fed",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "3bb7bf67-a17c-4fbb-ac05-92d33192fa97",
+			"name": "ER_1",
+			"url": "http://162.55.220.72:5005/get_method?name=Yana&age=47",
+			"time": 98,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				98
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e3e096db-70ab-4ef1-9f78-abaff61de58d",
+			"name": "ER_2",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 92,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				92
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c9e4db5b-95bd-40bb-b7bf-12d1ed158152",
+			"name": "ER_3",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Yana&age=47&weight=80",
+			"time": 103,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				103
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "03369ab9-a04a-4fd7-9d43-2bca2e80164d",
+			"name": "ER_4",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Yana&age=47&salary=500",
+			"time": 94,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				94
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "93021053-41af-4ca4-930a-f2eaf63b5385",
+			"name": "ER_5",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Yana&age=47&salary=500",
+			"time": 97,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				97
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ae2de169-f758-4791-b0da-38ff737eb305",
+			"name": "ER_6",
+			"url": "http://162.55.220.72:5005/object_info_4?name=Yana&age=47&salary=500",
+			"time": 95,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				95
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c6c92b1b-7daa-41aa-984d-764acb54bd22",
+			"name": "ER_7",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 100,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				100
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 679,
+	"collection": {
+		"requests": [
+			{
+				"id": "3bb7bf67-a17c-4fbb-ac05-92d33192fa97",
+				"method": "GET"
+			},
+			{
+				"id": "e3e096db-70ab-4ef1-9f78-abaff61de58d",
+				"method": "POST"
+			},
+			{
+				"id": "c9e4db5b-95bd-40bb-b7bf-12d1ed158152",
+				"method": "GET"
+			},
+			{
+				"id": "03369ab9-a04a-4fd7-9d43-2bca2e80164d",
+				"method": "GET"
+			},
+			{
+				"id": "93021053-41af-4ca4-930a-f2eaf63b5385",
+				"method": "GET"
+			},
+			{
+				"id": "ae2de169-f758-4791-b0da-38ff737eb305",
+				"method": "GET"
+			},
+			{
+				"id": "c6c92b1b-7daa-41aa-984d-764acb54bd22",
+				"method": "POST"
+			}
+		]
+	}
+}
